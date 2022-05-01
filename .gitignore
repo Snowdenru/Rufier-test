@@ -1,4 +1,9 @@
 venv
 .idea
 .DS_Store
+__pycache__/g
+М7У3/
+test1.py
 __pycache__/
+HelloWord.py
+random_winer.py
